@@ -16,6 +16,8 @@ const lengthRatio = 3.28084
 const volumeRatio = 0.264172
 const massRatio = 2.20462
 
+window.convertNum = convertNum
+
 convertBtn.addEventListener('click', convertNum)
 
 
